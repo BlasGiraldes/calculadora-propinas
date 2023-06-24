@@ -1,0 +1,94 @@
+{
+  "platillos": [
+    {
+      "id": 1,
+      "nombre": "Empanada de carne",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Empanada de pollo",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Asado argentino",
+      "precio": 70,
+      "categoria": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Milanesa de ternera",
+      "precio": 60,
+      "categoria": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Provoleta",
+      "precio": 40,
+      "categoria": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Choripán",
+      "precio": 35,
+      "categoria": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Matambre a la pizza",
+      "precio": 50,
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Locro",
+      "precio": 45,
+      "categoria": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Tarta de jamón y queso",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Helado de dulce de leche",
+      "precio": 25,
+      "categoria": 3
+    },
+    {
+      "id": 11,
+      "nombre": "Alfajor de maicena",
+      "precio": 10,
+      "categoria": 3
+    },
+    {
+      "id": 12,
+      "nombre": "Medialuna",
+      "precio": 15,
+      "categoria": 3
+    },
+    {
+      "id": 13,
+      "nombre": "Mate",
+      "precio": 10,
+      "categoria": 2
+    },
+    {
+      "id": 14,
+      "nombre": "Fernet con Coca Cola",
+      "precio": 40,
+      "categoria": 2
+    },
+    {
+      "id": 15,
+      "nombre": "Quilmes (cerveza)",
+      "precio": 20,
+      "categoria": 2
+    }
+  ]
+}
